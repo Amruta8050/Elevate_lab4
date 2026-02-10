@@ -88,3 +88,12 @@ Task-4-Feature-Encoding-Scaling/
 │
 ├── task4_feature_encoding.ipynb
 └── README.md
+
+#Outputs
+<img width="1439" height="441" alt="Image" src="https://github.com/user-attachments/assets/40bababb-6a1f-4f78-8b0e-746fb3aabbbb" />
+<img width="469" height="560" alt="Image" src="https://github.com/user-attachments/assets/760309d8-0e5f-4d27-8c0b-efc6f739ec73" />
+<img width="308" height="720" alt="Image" src="https://github.com/user-attachments/assets/be613bb2-4fc8-4842-84da-34295789aa67" />
+<img width="334" height="363" alt="Image" src="https://github.com/user-attachments/assets/2b8e5562-2124-4971-b8a0-d563cef1432b" />
+<img width="1481" height="346" alt="Image" src="https://github.com/user-attachments/assets/636bced3-67e6-4031-b162-9316904b811d" />
+<img width="1162" height="493" alt="Image" src="https://github.com/user-attachments/assets/0453fc5f-0bd5-495e-9a51-c41c86b2e5b0" />
+<img width="1240" height="493" alt="Image" src="https://github.com/user-attachments/assets/7eb11898-fb04-4a42-b7cc-3d956c2de736" />
